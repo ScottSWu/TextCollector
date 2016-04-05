@@ -1,0 +1,22 @@
+{
+  "name": "textcollector",
+  "version": "1.0.0",
+  "description": "Collect text from scripts over HTTP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottSWu/TextCollector.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottSWu/TextCollector/issues"
+  },
+  "homepage": "https://github.com/ScottSWu/TextCollector#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
